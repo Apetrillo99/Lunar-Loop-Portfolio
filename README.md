@@ -4,7 +4,7 @@
 
 ## Portfolio footage
 
-[Watch or download the full-quality 4K60 video](https://github.com/Apetrillo99/Lunar-Loop-Portfolio/releases/download/pre-alpha-portfolio/Lunar-Loop-Portfolio-4K60-Pre-Alpha-Final.mp4)
+[Watch or download the full-quality 4K60 video](https://github.com/Apetrillo99/Lunar-Loop-Portfolio/releases/download/pre-alpha-portfolio/Lunar-Loop-Portfolio-4K60-Pre-Alpha-Final.mp4?v=2)
 
 The footage shows the live simulation running in-engine, including:
 
